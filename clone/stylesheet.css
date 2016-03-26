@@ -4,7 +4,8 @@
     border :solid 3px green;
     margin: 50px;
     margin-left: 28%;
-    width: 42%;
+    width: 41%;
+    padding-right: 4%;
     margin-top:15px;
 }
 
@@ -24,7 +25,9 @@
     width: 44%;
     margin-left: 27%;
     text-align: center;
-    height: 150px;
+    height: px;
+    margin-top: 46px;
+    padding-top: 60;
 }
 #upperbox h1{
     font-size: 50px;
@@ -32,7 +35,7 @@
 }
 #upperbox h5{
     font-size: 19px;
-    padding-bottom:;
+
 }
 
 #bottomBox ul li {
