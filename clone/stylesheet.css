@@ -1,7 +1,11 @@
 
 #middeBox  {
+    display: block;
+    border :solid 3px green;
     margin: 50px;
     margin-left: 28%;
+    width: 42%;
+    margin-top:15px;
 }
 
 #bottomBoxul a {
@@ -34,11 +38,38 @@
 #bottomBox ul li {
     display:inline;
     padding:5px;
-
-
-
 }
 
 #nav {
     margin-left: 28%;
+}
+
+#bottomBox a{
+    color: #817474;
+}
+
+
+
+#table{
+    display: block;
+    border: solid 1px;
+    border-collapse: collapse;
+    width: 100%;
+}
+#table td{
+    display: block;
+    border: solid 3px;
+}
+
+#table {
+    margin: 17px;
+}
+
+#eml {
+    color:#817474;
+    border-radius: 3px;
+    background-color: #e8dddd;
+}
+#eml1{
+    color: #817474;
 }
