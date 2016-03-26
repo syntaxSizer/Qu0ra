@@ -12,3 +12,20 @@
     display: inline-block;
     text-decoration: none
 }
+
+#upperBox header {
+    display: block ;
+    border: solid 5px;
+    width: 44%;
+    margin-left: 27%;
+    text-align: center;
+    height: 150px;
+}
+#upperbox h1{
+    font-size: 50px;
+    color: darkred;
+}
+#upperbox h5{
+    font-size: 19px;
+    padding-bottom:;
+}
