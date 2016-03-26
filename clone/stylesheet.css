@@ -59,9 +59,12 @@
     border-collapse: collapse;
     width: 100%;
 }
-#table td{
+#table {
     display: block;
     border: solid 3px;
+    font-size: 14px;
+    padding-top:199px;
+    padding-left: 9px;
 }
 
 #table {
@@ -72,7 +75,26 @@
     color:#817474;
     border-radius: 3px;
     background-color: #e8dddd;
+    width: 100%;
 }
 #eml1{
     color: #817474;
+}
+
+#lik a{
+    text-decoration: none;
+    font-size: 14px;
+    margin-top: 3px;
+    color: #817474;
+
+}
+
+#botton {
+    float: right;
+    margin-top: 12px;
+    font-family: fantasy;
+    color: aliceblue;
+    background-color:#37379a;
+    padding: 3px;
+    border-radius: 3px;
 }
