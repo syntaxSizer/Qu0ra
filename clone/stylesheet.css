@@ -1,12 +1,14 @@
 
 #middeBox  {
     display: block;
-    border :solid 3px green;
+    border :solid 1px black;
     margin: 50px;
     margin-left: 28%;
     width: 41%;
-    padding-right: 4%;
     margin-top:15px;
+    border-radius: 3px;
+    box-shadow:0 0 2px 1px rgba(20, 3, 3, 0.24);
+
 }
 
 #bottomBoxul a {
@@ -20,12 +22,9 @@
 }
 
 #upperBox header {
-    display: block ;
-    border: solid 5px;
     width: 44%;
     margin-left: 27%;
     text-align: center;
-    height: px;
     margin-top: 46px;
     padding-top: 60;
 }
@@ -41,10 +40,14 @@
 #bottomBox ul li {
     display:inline;
     padding:5px;
+    margin-bottom: ;
 }
 
-#nav {
-    margin-left: 28%;
+#nav ul  {
+    margin-left: 33%;
+
+
+
 }
 
 #bottomBox a{
@@ -53,22 +56,16 @@
 
 
 
-#table{
-    display: block;
-    border: solid 1px;
-    border-collapse: collapse;
-    width: 100%;
-}
-#table {
-    display: block;
-    border: solid 3px;
-    font-size: 14px;
-    padding-top:199px;
-    padding-left: 9px;
-}
+#table tr{
 
-#table {
-    margin: 17px;
+    border-collapse: separate;
+    padding: 5px;
+    width: 100%;
+    font-size: 14px;
+}
+#table td{
+
+    padding: 9px;
 }
 
 #eml {
@@ -97,4 +94,12 @@
     background-color:#37379a;
     padding: 3px;
     border-radius: 3px;
+}
+
+
+
+#out {
+    display: block;
+    margin: 19px;
+
 }
