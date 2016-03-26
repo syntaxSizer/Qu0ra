@@ -1,13 +1,14 @@
 
 #middeBox  {
     margin: 50px;
+    margin-left: 28%;
 }
 
-#nav ul a {
+#bottomBoxul a {
     display: inline-block;
 }
 
-#nav ul li  a{
+#bottomBox ul li  a{
     list-style: none;
     display: inline-block;
     text-decoration: none
@@ -28,4 +29,16 @@
 #upperbox h5{
     font-size: 19px;
     padding-bottom:;
+}
+
+#bottomBox ul li {
+    display:inline;
+    padding:5px;
+
+
+
+}
+
+#nav {
+    margin-left: 28%;
 }
