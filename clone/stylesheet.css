@@ -85,6 +85,9 @@
     color: #817474;
 
 }
+#lik a:hover{
+    text-decoration: underline;
+}
 
 #botton {
     float: right;
@@ -95,7 +98,6 @@
     padding: 3px;
     border-radius: 3px;
 }
-
 
 
 #out {
